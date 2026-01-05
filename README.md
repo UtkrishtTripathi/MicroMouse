@@ -1,6 +1,6 @@
 # 🐭 WRC Micromouse – STM32 (Arduino IDE)
 
-![Micromouse](path/to/front_view_image.png)
+![Micromouse](https://drive.google.com/file/d/1RdDMnDgbwSIq-ifVB9rLmBafuuW8YTks/view?usp=sharing)
 
 A **maze-solving autonomous robot** built for the **WRC Micromouse Competition**, powered by an **STM32 microcontroller** and programmed using the **Arduino IDE**.  
 This project focuses on high-speed maze-solving with smooth, precise movement, robust sensors, and optimized path planning.  
