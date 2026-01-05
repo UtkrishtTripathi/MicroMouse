@@ -51,23 +51,19 @@ Two PCB variants designed with the same geometry & sensor placements:
 ## 🖼️ PCB Layouts
 
 **TB6612FNG Variant**  
-![TB6612 Layout](path/to/tb6612_layout_image.png)
+![TB6612 Layout](render/img2.jpeg)
 
 **DRV8833 Variant**  
-![DRV8833 Layout](path/to/drv8833_layout_image.png)
+![DRV8833 Layout](render/img3.jpeg)
 
 ---
 
 ## 🛠️ Assembled Hardware
 
 **DRV8833 Variant – 4-layer SMD PCB**  
-![DRV8833 SMD](path/to/drv8833_smd_image.png)  
+![Top View](render/img5.jpeg)  
 
-**Motors Mounted**  
-![DRV8833 Motors](path/to/drv8833_motors_image.png)  
-
-**Side-by-Side Comparison**  
-![Comparison](path/to/comparison_image.png)  
+![Bottom View](render/img7.jpeg) 
 
 ---
 
